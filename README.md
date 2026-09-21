@@ -465,35 +465,6 @@ Home
  │
  └── Orders
 ```
-
----
-
-## 📸 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-```markdown
-## Screenshots
-
-### Home Page
-
-![Home Page](screenshots/home.png)
-
-### Product Page
-
-![Product Page](screenshots/product.png)
-
-### Shopping Cart
-
-![Cart](screenshots/cart.png)
-
-### Login
-
-![Login](screenshots/login.png)
-```
-
 ---
 
 ## 🔒 Security
